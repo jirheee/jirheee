@@ -1,53 +1,14 @@
 +++
-template = "homepage.html"
+title = "Welcome!"
+template = "home.html"
 +++
 
-<style>
-.homepage-hero {
-    text-align: center;
-    padding: 2rem 0;
-}
+I'm Jungin, a Phd candidate in [Concurrency and Parallelism laboratory](https://cp.kaist.ac.kr) at KAIST, advised by [Jeehoon Kang](https://cp.kaist.ac.kr/jeehoon.kang/).
+My research current interest lies in hardware design and programming languages, and thereby building better tools for easier hardware design, aiming to bridge the gap between complex hardware and intuitive programming.
 
-.homepage-hero-title {
-    font-size: 3rem;
-    margin-bottom: 1rem;
-}
+Other then my research, I spend my time doing workouts at gym, running, playing guitar of singing, and [writing](/posts).
 
-.homepage-hero-subtitle {
-    font-size: 1.25rem;
-    margin-bottom: 1rem;
+Here, I'll be documenting my journey through my PhD, delving into my research, and sharing thoughts on life inside and outside academia.
 
-</style>
 
-<div class="homepage-hero">
-    <h1 class="homepage-hero-title">Apollo</h1>
-    <p class="homepage-hero-subtitle">A modern and minimalistic blog theme powered by Zola.</p>
-</div>
-
-# Features
-
-- [Light, dark, and auto themes](@/posts/configuration.md#theme-mode-theme)  
-- [Projects page](@/projects/_index.md)                                 
-- [Talks page](https://not-matthias.github.io/talks/)         
-- [Analytics (GoatCounter, Umami)](@/posts/configuration.md#analytics)                                                                                                  
-- [Social media links](@/posts/configuration.md#socials)                                                                                                     
-- [MathJax rendering](@/posts/math-symbol.md)                    
-- [Taxonomies](/apollo/tags)
-- [Custom homepage](@/posts/custom-homepage.md)                  
-- [Comments](@/posts/configuration.md#comments-comment)                   
-- [Search functionality](@/posts/configuration.md#search-build-search-index)         
-
-Checkout all the [options you can configure](./content/posts/configuration.md) and the [example pages](./content/posts/).
-
-# Quick Start
-
-1.  **Add the theme as a submodule:**
-    ```bash
-    git submodule add https://github.com/not-matthias/apollo themes/apollo
-    ```
-2.  **Configure your `config.toml`:**
-    Set `theme = "apollo"` and add your site's configuration.
-3.  **Start the Zola server:**
-    ```bash
-    zola serve
-    ```
+<!--I enjoy working on [projects](/projects) that challenge me and allow me to learn things, whether it's writing a [kernel driver with Rust](/posts/kernel-driver-with-rust/), reverse engineering and deobfuscating anticheats, or building a flashcard generator with LLMs. I also enjoy sharing that knowledge by [writing blog posts](/posts) and [speaking at meetups and conferences](/talks).-->
