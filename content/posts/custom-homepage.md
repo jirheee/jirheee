@@ -1,6 +1,7 @@
 +++
 title = "Creating a Custom Homepage"
 date = 2025-06-29
+draft=true
 +++
 
 The Apollo theme provides a default homepage that lists your recent blog posts. However, you might want to create a custom homepage that better reflects your personality and work. This guide will walk you through the process of creating a custom homepage with the Apollo theme.
