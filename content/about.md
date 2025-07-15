@@ -19,16 +19,20 @@ path = "about"
 
 ## Education
 
-- (2025-Present) Ph.D. in  KAIST.
+- (2025-Current) Ph.D. in AI Semiconductor. KAIST.
 
-- (2023-2025) M.S. in Computer Science. KAIST.
+- (2025) M.S. in Computer Science. KAIST.
 
-- (2018-2023) B.S. in Computer Science. KAIST.
+- (2023) B.S. in Computer Science. KAIST.
 
 ## Teaching
 
-- 
+- Teaching Assistant, KAIST CS220 Programming Principles, Spring 2023
+- Teaching Assistant, KAIST CS220 Programming Principles, Fall 2023
+- Teaching Assistant, KAIST CS220 Programming Principles, Fall 2024
+- Teaching Assistant, KAIST AS602 AI Semiconductor Paper Writing, Spring 2025
 
-## Awards
+## Honors and Awards
 
-- 
+- School of Computing, Dean’s List: Fall 2021
+- School of Computing, Excellent TA Award: Spring 2023 (KAIST CS420 Compilers Design), Fall 2023 (KAIST CS220 Programming Principles)
