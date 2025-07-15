@@ -16,6 +16,7 @@ When I first wrote my draft, I found myself staring at a 40-page "text dump"—n
 I had to condense it into a strict 25-page limit paper.
 
 Guided by my advisor Jeehoon and colleagues (Jaewoo, Minseong, Janggun, and Seungmin), I went through a complete overhaul, learning to consolidate disparate ideas into dense, organically flowing sections.
+
 In this post, I'll share the principles and tools that helped me navigate this challenging process, from fundamental writing advice to the surprising utility of large language models, all forged in the crucible of a tight deadline and an overflowing draft.
 
 # General Principles of Academic Writing
