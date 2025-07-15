@@ -6,7 +6,7 @@ template = "home.html"
 I'm Jungin, a Phd candidate in [Computer Architecture and Systems Lab](https://casyslab.kaist.ac.kr) at KAIST, co-advised by [Jongse Park](https://jongse-park.github.io) and [Jeehoon Kang](https://cp.kaist.ac.kr/jeehoon.kang/).
 My research interest lies hardware design and programming languages, aiming to bridge the gap between complex hardware and intuitive programming.
 
-Other then my research, I like to work out at gym, run, play guitar and sing, and [write blog posts](/posts).
+Other then my research, I like to run, work out at gym, play guitar, sing, and [write blog posts](/posts).
 
 Here, I'll be documenting the journey throughout my PhD, delving into my research, and sharing thoughts on life inside and outside academia.
 
