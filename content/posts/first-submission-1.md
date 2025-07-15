@@ -3,12 +3,15 @@ title = "Lessons from first submission - (1) Writing"
 date = 2025-07-15
 
 [taxonomies]
-tags=["Research Skills", "Academic Writing", "AI for Writing"]
+tags=["First Submission", "Research Skills", "Academic Writing", "AI for Writing"]
 +++
 
 # From Text Dump to Tight Paper: My Writing Transformation Journey
 
-Throughout the submission, writing was one of the key challenges.
+I recently submitted my very first paper as a first author, and the journey taught me a lot.
+I want to share the lessons I've learnt and archive my experiences through a series of posts, starting with this one
+
+Among the many hurdles, writing stood out as a significant challenge.
 When I first wrote my draft, I found myself staring at a 40-page "text dump"—not even a complete draft, missing experiments and related work.
 I had to condense it into a strict 25-page limit paper.
 
