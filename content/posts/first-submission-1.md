@@ -9,7 +9,7 @@ tags=["First Submission", "Research Skills", "Academic Writing", "AI for Writing
 # From Text Dump to Tight Paper: My Writing Transformation Journey
 
 I recently submitted my very first paper as a first author, and the journey taught me a lot.
-I want to share the lessons I've learnt and archive my experiences through a series of posts, starting with this one
+I want to share the lessons I've learnt and archive my experiences through a series of posts, starting with this one.
 
 Among the many hurdles, writing stood out as a significant challenge.
 When I first wrote my draft, I found myself staring at a 40-page "text dump"—not even a complete draft, missing experiments and related work.
