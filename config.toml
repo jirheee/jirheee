@@ -1,25 +1,60 @@
 # The URL the site will be built for
 base_url = "https://jirheee.github.io/jirheee"
+title = "official.jungin.rhee"
 
-# Whether to automatically compile all Sass files in the sass directory
+description = "The official me"
+build_search_index = true
+generate_feeds = true
 compile_sass = true
-
-# Whether to build a search index to be used later on by a JavaScript library
-build_search_index = false
+minify_html = true
 
 theme = "apollo"
 taxonomies = [{ name = "tags" }]
 
+[search]
+include_title = true
+include_description = true
+include_path = true
+include_content = true
+index_format = "elasticlunr_json"
+
 [markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = false
+highlight_code = true
+highlight_theme = "css"
+highlight_themes_css = [
+  { theme = "ayu-dark", filename = "syntax-theme-dark.css" },
+  { theme = "ayu-light", filename = "syntax-theme-light.css" },
+]
 
 [extra]
-theme = "auto"
-socials = [
-  # Configure socials here
-]
+toc = true
+use_cdn = false
+favicon = "/icon/favicon.png"
+theme = "toggle"              # light, dark, auto, toggle
+fancy_code = true
+dynamic_note = true           # a note that can be toggled
+mathjax = true
+mathjax_dollar_inline_enable = true
+repo_url = "https://github.com/jirheee/jirheee"
+
 menu = [
-  # Configure menu bar here
+    { name = "/posts", url = "/posts", weight = 1 },
+    { name = "/projects", url = "/projects", weight = 2 },
+    { name = "/tags", url = "/tags", weight = 3 },
 ]
+
+socials = [
+    # { name = "twitter", url = "https://twitter.com/not_matthias", icon = "twitter" },
+    { name = "github", url = "https://github.com/jirheee/", icon = "github" },
+]
+
+stylesheets = [
+    # "custom.css"    # at /static/custom.css
+]
+
+[extra.taxonomies]
+sort_by = "page_count"         # e.g. name, page_count
+reverse = true
+
+[extra.analytics]
+enabled = false
