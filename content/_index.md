@@ -5,8 +5,9 @@ template = "home.html"
 
 
 
-I'm Jungin, Phd candidate in [Computer Architecture and Systems Lab](https://casyslab.kaist.ac.kr) at KAIST, co-advised by [Jongse Park](https://jongse-park.github.io) and [Jeehoon Kang](https://cp.kaist.ac.kr/jeehoon.kang/).
+I'm Jungin, PhD candidate in [Computer Architecture and Systems Lab](https://casyslab.kaist.ac.kr) at KAIST, co-advised by [Jongse Park](https://jongse-park.github.io) and [Jeehoon Kang](https://cp.kaist.ac.kr/jeehoon.kang/).
 My research interest lies in between hardware design and programming languages, aiming to bridge the gap between complex hardware and intuitive programming.
+<!-- TODO: Opportunity for Deeper Personal Narrative: While your academic profile is strong, consider weaving in more of your personal story or "why" behind your research interests. What excites you about bridging hardware design and programming languages? Sharing more of your passion can make your brand more compelling. -->
 
 Other then my research, I like to run, work out at gym, play guitar, sing, and [write blog posts](https://jirheee.github.io/jirheee/posts/).
 
